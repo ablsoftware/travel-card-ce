@@ -2,7 +2,7 @@ import { defineConfig } from 'umi';
 const { ENV, PROXY } = process.env;
 const proxyUrl = '/proxy';
 const serverUrl = '';
-const publicPath = '//roland-zhu.github.io/travel-card/';
+const publicPath = '//aladdin-chu.github.io/travel-card/';
 
 export default defineConfig({
   nodeModulesTransform: {
