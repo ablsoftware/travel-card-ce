@@ -46,7 +46,7 @@ export default function IndexPage() {
           </span>
           <br />
           <br />
-          纪念版页面入口: xingchengka.com
+          纪念版页面入口: xck.abllo.cn
           <br />
           <br />
         </div>
@@ -100,7 +100,7 @@ export default function IndexPage() {
         <span className={styles.privacy} onClick={handleAboutOnClick}>
           隐私指引
         </span>{' '}
-        - xingchengka.com
+        - xck.abllo.cn
       </div>
 
       <Checkbox.Group
@@ -143,7 +143,7 @@ export default function IndexPage() {
       </Checkbox.Group>
 
       <div className={styles.footer_tip}>
-        「行程卡纪念版」 - xingchengka.com
+        「行程卡纪念版」 - xck.abllo.cn
       </div>
 
     </div>
